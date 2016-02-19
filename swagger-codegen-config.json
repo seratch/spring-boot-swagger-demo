@@ -1,0 +1,10 @@
+{
+  "groupId":"com.github.seratch",
+  "artifactId":"spring-boot-swagger-demo-client",
+  "modelPackage":"example.client.model",
+  "apiPackage":"example.client.api",
+  "invokerPackage":"example.client.invoker",
+  "artifactVersion":"0.1-SNAPSHOT",
+  "serializableModel":true,
+  "library":"jersey2"
+}
