@@ -5,8 +5,9 @@ This sample application shows you how to do the following things:
 - Swagger 2.0 Integration
 - Swagger CodeGen Integration
 - Testing services
-- Testing controllers with RestAssured
-- Running integration tests with embedded Spring Boot server
+- Testing controllers
+- Running integration tests with RestAssured / embedded Spring Boot server
+- Enabling Spring Loaded when running spring-boot app on Maven plugin
 
 ## Getting Started
 
@@ -15,7 +16,7 @@ This sample application shows you how to do the following things:
 spring-boot maven plugin requires Maven 3.
 
 ```
-rbew install maven
+brew install maven
 mvn spring-boot:run
 ```
 
